@@ -1,0 +1,11 @@
+{
+  "name": "koa-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stoatwzf/koa-sample.git",
+  "author": "stoat <stoatwzf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
