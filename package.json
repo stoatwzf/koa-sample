@@ -6,6 +6,7 @@
   "author": "stoat <stoatwzf@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0"
   }
 }
