@@ -6,6 +6,7 @@
   "author": "stoat <stoatwzf@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "busboy": "^0.2.14",
     "ejs": "^2.6.1",
     "koa": "^2.5.2",
     "koa-bodyparser": "^4.2.1",
